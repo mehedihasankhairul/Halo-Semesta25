@@ -25,6 +25,7 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 <a href="https://github.com/lmpu/Halo-Semesta25/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=lmpu/Halo-Semesta25" />
+  <img src="https://avatars.githubusercontent.com/u/55708248?v=4 />
 </a>
 
 <br>
@@ -39,5 +40,6 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 <a href="https://github.com/lmpu/Halo-Semesta25/pulls"><img src="https://img.shields.io/github/issues-pr/lmpu/Halo-Semesta25" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/lmpu/Halo-Semesta25/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lmpu/Halo-Semesta25?color=2b9348"></a>
+
 
 </div>
